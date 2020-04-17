@@ -1,0 +1,3 @@
+import os
+os.system("ll")
+echo "biu biu biusssssssssssssssssssss"
