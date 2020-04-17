@@ -6,5 +6,10 @@ sdasdsadsa
 sadsadsad
 sadasd
 ***********************&&&&&&&&&&&&&&&&7
-sddddddddddddddddddddddsdads
-sdadasdsada
+<<<<<<< HEAD
+sssssssssssssssssssssssssssssss
+sssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+=======
+sssssssssssssssssssssssssssssss
+sssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+>>>>>>> feat
